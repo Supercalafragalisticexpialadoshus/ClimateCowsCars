@@ -1,0 +1,41 @@
+#relacionados {
+  clear:both;
+  margin-bottom:1em;
+  display: flex;
+  justify-content: center;
+}
+
+#relacionados a {
+	width: 49%; text-decoration: none;}
+  
+.caja-rel {
+    width: 100.0%;
+    height: 3em;
+    background: #4e8332;
+    margin: 1%;
+    padding: .8em;
+    border: 2px outset darkgreen;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+ 	 
+ #foot {
+  clear:both;
+  background: black;
+  min-height: 2em;
+  padding: .5em 1em;
+}
+
+#creativecommons {
+	color: whitesmoke;
+	font-size:.9em; 
+	line-height:1em; letter-spacing: 0;
+	}
+	
+#creativecommons img {
+	line-height: 1em;
+	vertical-align: middle;
+	padding-left: .4em;}	 

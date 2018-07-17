@@ -1,0 +1,58 @@
+    	<!-- NAVIGATION -->
+		<div data-role="panel" data-position-fixed="true" data-display="overlay" id="nav-panel">
+			<ul class="ui-listview" data-filter="true" data-role="listview">
+				<li data-icon="delete"><a href="#" data-rel="close">&nbsp;</a></li><!-- upper close bar -->
+				<li data-icon="false"><a href="#" data-rel="close" ><img src="icons/party.svg" width="41.6px" height="auto">Benefits</a></li>
+				<li data-role="collapsible" data-iconpos="right" data-inset="true">
+				<h2>Greenhouse Gases </h2>
+					<ul data-role="listview" ><!-- Expanded Link List -->
+						<li><a href="m.greenhouse-gases.php" data-rel="close">CO2</a></li>
+						<li><a href="#" data-rel="close">Methane</a></li>
+						<li><a href="#" data-rel="close">Nitrous Oxide</a></li>
+						<li><a href="#" data-rel="close">Combined Impact</a></li>
+						<li><a href="#" data-rel="close">Embodied energy</a></li>
+						<li><a href="#" data-rel="close">Summary</a></li>
+					</ul>
+				</li>
+				<li data-icon="false"><a href="#" data-rel="close">Synopsis <img src="icons/synopsis.svg" width="41.6px" height="auto"></a></li>
+				<li data-role="collapsible" data-iconpos="right" data-inset="true">
+				<h2>Hard to Breathe</h2>
+					<ul data-role="listview"><!-- Expanded Link List -->
+						<li><a href="#" data-rel="close">Intro</a></li>
+						<li><a href="#" data-rel="close">Carbon Monoxide</a></li>
+						<li><a href="#" data-rel="close">Hydrogen Sulfide</a></li>
+						<li><a href="#" data-rel="close">Ozone</a></li>
+						<li><a href="#" data-rel="close">Particulate Matter</a></li>
+						<li><a href="#" data-rel="close">2nd Hand Smoke</a></li>
+						<li><a href="#" data-rel="close">Exposure</a></li>
+					</ul>
+				</li>
+				<li data-icon="false"><a href="#" data-rel="close"><img src="icons/river-fish.svg" width="41.6px" height="auto"> Ocean Health</a></li>
+				<li data-icon="false"><a href="#" data-rel="close"><img src="icons/cliff-river.svg" width="41.6px" height="auto"> Healthy Land</a></li>
+				<li data-icon="false"><a href="#" data-rel="close"><img src="icons/money.svg" width="41.6px" height="auto"> Cost</a></li>
+				<li data-role="collapsible" data-iconpos="right" data-inset="true">
+				<h2>Health</h2>
+					<ul data-role="listview"><!-- Expanded Link List -->
+						<li><a href="#" data-rel="close">Intro</a></li>
+						<li><a href="#" data-rel="close">Lifespan</a></li>
+						<li><a href="#" data-rel="close">Heart Health</a></li>
+						<li><a href="#" data-rel="close">Cancer</a></li>
+						<li><a href="#" data-rel="close">Other Diseases</a></li>
+					</ul>
+				</li>
+				<li data-role="collapsible" data-iconpos="right" data-inset="true">
+				<h2>Emotional Health</h2>
+					<ul data-role="listview"><!-- Expanded Link List -->
+						<li><a href="#" data-rel="close">Intro</a></li>
+						<li><a href="#" data-rel="close">Addiction</a></li>
+						<li><a href="#" data-rel="close">Noise</a></li>
+						<li><a href="#" data-rel="close">Anxiety</a></li>
+						<li><a href="#" data-rel="close">Empathy</a></li>
+						<li><a href="#" data-rel="close">Hopelessness</a></li>
+					</ul>
+				</li>
+				<li data-icon="false"><a href="#" data-rel="close"><img src="icons/bomb.svg" width="41.6px" height="auto"> War</a></li>
+				<li data-icon="false"><a href="#" data-rel="close"><img src="icons/summation.svg" width="41.6px" height="auto"> Conclusion</a></li>
+				<li data-icon="false"><a href="https://twitter.com/SapioSpiritual" data-rel="close"><img src="icons/Twitter_logo.svg" width="41.6px" height="auto"> Contact</a></li>
+			</ul>
+		</div><!-- Nav Panel Slider -->

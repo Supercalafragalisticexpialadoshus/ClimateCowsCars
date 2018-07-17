@@ -1,0 +1,35 @@
+@font-face {
+    font-family: LeroyBrown;
+    src: url(../fonts/fontLeroyBrown.woff);}
+    
+@font-face {
+	font-family: Alegreya;
+	src: url(../fonts/Alegreya-Regular.otf);}
+
+@font-face {
+    font-family: Alegreya-bold;
+    src: url(../fonts/Alegreya-Bold.otf);
+    font-weight: bold;}
+
+@font-face {
+    font-family: Alegreya-bold-italic;
+    src: url(../fonts/Alegreya-BoldItalic.otf);
+    font-weight: bold;
+	font-style: italic;}
+
+@font-face {
+	font-family: Lobster;
+	src: url(../fonts/Lobster_1.3.otf);}
+
+@font-face {
+    font-family: Arimo;
+    src: url(../fonts/Arimo-Regular.ttf);}
+
+@font-face {
+    font-family: sophia;
+    src: url(../fonts/Sofia-Regular.otf);}
+
+@font-face {
+    font-family: vera;
+    src: url(../fonts/Vera.ttf);}
+

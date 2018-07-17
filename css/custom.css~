@@ -1,0 +1,929 @@
+html *, html *:after, html *:before {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+h1, h2, h3, p, div, header, footer, section, article, ul, aside, img {
+  margin-bottom: 1em;
+  margin-bottom: 2vw;
+}
+
+div.wrap {
+  margin-bottom: 0;
+}
+
+@media (min-width: 1220px) {
+  .fixedWidthAbove1200 .noFixedWidth.wrap {
+    width: 100%;
+  }
+  .fixedWidthAbove1200 .noFixedWidth > .flexParent,
+  .fixedWidthAbove1200 *.wrap {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .fixedWidthAbove1200 .noFixedWidth > .flexParent.fullWidth {
+    width: 100%;
+  }
+  .fixedWidthAbove1200 .wrap.multiRow {
+    width: 1220px;
+  }
+}
+.fixedWidthAbove1200 *.wrap.noFixedWidth {
+  width: 100%;
+}
+
+.minWidthBelow300 {
+  min-width: 300px;
+}
+
+.wrap {
+  width: 95.91837%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.wrapInset {
+  padding: 2.12766%;
+  margin: 0;
+}
+
+.flexParent {
+  *zoom: 1;
+}
+.flexParent:before, .flexParent:after {
+  content: " ";
+  display: table;
+}
+.flexParent:after {
+  clear: both;
+}
+.flexParent > [class*='col-'], .flexParent [class*='col-'] > *:last-child, .flexParent > .multiCol, .flexParent .multiCol > *:last-child {
+  margin: 0;
+}
+.flexbox .flexParent {
+  *zoom: auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-direction: row;
+  -ms-flex-wrap: wrap;
+  -moz-flex-direction: row;
+  -moz-flex-wrap: wrap;
+  -moz-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -moz-align-content: flex-start;
+  -webkit-align-content: flex-start;
+  -ms-align-content: flex-start;
+  align-content: flex-start;
+  -webkit-box-pack: space-between;
+  -moz-box-pack: space-between;
+  -ms-flex-pack: space-between;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.flexbox .flexParent:before, .flexbox .flexParent:after {
+  display: none;
+}
+.flexbox .flexParent > [class*='col-'], .flexbox .flexParent > .multiCol {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+.flexParent .col-1, .flexParent .col-2, .flexParent .col-3, .flexParent .col-4, .flexParent .col-5, .flexParent .col-6, .flexParent .col-7, .flexParent .col-8, .flexParent .col-9, .flexParent .col-10, .flexParent .col-11, .flexParent .col-12 {
+  float: left;
+  width: 100%;
+  margin-bottom: 1em;
+  margin-bottom: 2vw;
+}
+.flexbox .flexParent .col-1, .flexbox .flexParent .col-2, .flexbox .flexParent .col-3, .flexbox .flexParent .col-4, .flexbox .flexParent .col-5, .flexbox .flexParent .col-6, .flexbox .flexParent .col-7, .flexbox .flexParent .col-8, .flexbox .flexParent .col-9, .flexbox .flexParent .col-10, .flexbox .flexParent .col-11, .flexbox .flexParent .col-12 {
+  float: none;
+}
+.flexbox .flexParent .col-1, .flexbox .flexParent .col-2, .flexbox .flexParent .col-3, .flexbox .flexParent .col-4, .flexbox .flexParent .col-5, .flexbox .flexParent .col-6, .flexbox .flexParent .col-7, .flexbox .flexParent .col-8, .flexbox .flexParent .col-9, .flexbox .flexParent .col-10, .flexbox .flexParent .col-11, .flexbox .flexParent .col-12 {
+  width: auto;
+  -moz-flex: 1 1 100%;
+  -webkit-flex: 1 1 100%;
+  -ms-flex: 1 1 100%;
+  flex: 1 1 100%;
+}
+.flexParent .col-1 .childrenPadding, .flexParent .col-2 .childrenPadding, .flexParent .col-3 .childrenPadding, .flexParent .col-4 .childrenPadding, .flexParent .col-5 .childrenPadding, .flexParent .col-6 .childrenPadding, .flexParent .col-7 .childrenPadding, .flexParent .col-8 .childrenPadding, .flexParent .col-9 .childrenPadding, .flexParent .col-10 .childrenPadding, .flexParent .col-11 .childrenPadding, .flexParent .col-12 .childrenPadding {
+  padding: 2.12766%;
+}
+.flexParent .col-1:last-child, .flexParent .col-2:last-child, .flexParent .col-3:last-child, .flexParent .col-4:last-child, .flexParent .col-5:last-child, .flexParent .col-6:last-child, .flexParent .col-7:last-child, .flexParent .col-8:last-child, .flexParent .col-9:last-child, .flexParent .col-10:last-child, .flexParent .col-11:last-child, .flexParent .col-12:last-child {
+  margin: 0;
+}
+@media (min-width: 700px) {
+  .flexParent .col-12 {
+    float: left;
+    width: 100%;
+  }
+  .flexbox .flexParent .col-12 {
+    float: none;
+  }
+  .flexbox .flexParent .col-12 {
+    width: auto;
+    -moz-flex: 1 1 100%;
+    -webkit-flex: 1 1 100%;
+    -ms-flex: 1 1 100%;
+    flex: 1 1 100%;
+  }
+  .flexParent .col-12 .childrenPadding {
+    padding: 2.12766%;
+  }
+  .flexParent .col-11 {
+    float: left;
+    width: 91.48936%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-11 {
+    float: none;
+  }
+  .flexParent .col-11:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-11:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-11:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-11 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-11 {
+    width: auto;
+    -moz-flex: 0 1 91.48936%;
+    -webkit-flex: 0 1 91.48936%;
+    -ms-flex: 0 1 91.48936%;
+    flex: 0 1 91.48936%;
+  }
+  .flexParent .col-11 .childrenPadding {
+    padding: 2.32558%;
+  }
+  .flexParent .col-10 {
+    float: left;
+    width: 82.97872%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-10 {
+    float: none;
+  }
+  .flexParent .col-10:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-10:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-10:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-10 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-10 {
+    width: auto;
+    -moz-flex: 0 1 82.97872%;
+    -webkit-flex: 0 1 82.97872%;
+    -ms-flex: 0 1 82.97872%;
+    flex: 0 1 82.97872%;
+  }
+  .flexParent .col-10 .childrenPadding {
+    padding: 2.5641%;
+  }
+  .flexParent .col-9 {
+    float: left;
+    width: 74.46809%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-9 {
+    float: none;
+  }
+  .flexParent .col-9:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-9:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-9:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-9 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-9 {
+    width: auto;
+    -moz-flex: 0 1 74.46809%;
+    -webkit-flex: 0 1 74.46809%;
+    -ms-flex: 0 1 74.46809%;
+    flex: 0 1 74.46809%;
+  }
+  .flexParent .col-9 .childrenPadding {
+    padding: 2.85714%;
+  }
+  .flexParent .col-8 {
+    float: left;
+    width: 65.95745%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-8 {
+    float: none;
+  }
+  .flexParent .col-8:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-8:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-8:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-8 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-8 {
+    width: auto;
+    -moz-flex: 0 1 65.95745%;
+    -webkit-flex: 0 1 65.95745%;
+    -ms-flex: 0 1 65.95745%;
+    flex: 0 1 65.95745%;
+  }
+  .flexParent .col-8 .childrenPadding {
+    padding: 3.22581%;
+  }
+  .flexParent .col-7 {
+    float: left;
+    width: 57.44681%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-7 {
+    float: none;
+  }
+  .flexParent .col-7:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-7:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-7:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-7 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-7 {
+    width: auto;
+    -moz-flex: 0 1 57.44681%;
+    -webkit-flex: 0 1 57.44681%;
+    -ms-flex: 0 1 57.44681%;
+    flex: 0 1 57.44681%;
+  }
+  .flexParent .col-7 .childrenPadding {
+    padding: 3.7037%;
+  }
+  .flexParent .col-6 {
+    float: left;
+    width: 48.93617%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-6 {
+    float: none;
+  }
+  .flexParent .col-6:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-6:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-6:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-6 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-6 {
+    width: auto;
+    -moz-flex: 0 1 48.93617%;
+    -webkit-flex: 0 1 48.93617%;
+    -ms-flex: 0 1 48.93617%;
+    flex: 0 1 48.93617%;
+  }
+  .flexParent .col-6 .childrenPadding {
+    padding: 4.34783%;
+  }
+  .flexParent .col-5 {
+    float: left;
+    width: 40.42553%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-5 {
+    float: none;
+  }
+  .flexParent .col-5:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-5:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-5:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-5 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-5 {
+    -moz-flex: 0 1 40.42553%;
+    -webkit-flex: 0 1 40.42553%;
+    -ms-flex: 0 40.42553%;
+    flex: 0 1 40.42553%;
+  }
+  .flexParent .col-5 .childrenPadding {
+    padding: 5.26316%;
+  }
+  .flexParent .col-4 {
+    float: left;
+    width: 31.91489%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-4 {
+    float: none;
+  }
+  .flexParent .col-4:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-4:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-4:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-4 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-4 {
+    -moz-flex: 0 1 31.91489%;
+    -webkit-flex: 0 1 31.91489%;
+    -ms-flex: 0 31.91489%;
+    flex: 0 1 31.91489%;
+  }
+  .flexParent .col-4 .childrenPadding {
+    padding: 6.66667%;
+  }
+  .flexParent .col-3 {
+    float: left;
+    width: 23.40426%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-3 {
+    float: none;
+  }
+  .flexParent .col-3:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-3:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-3:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-3 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-3 {
+    -moz-flex: 0 1 23.40426%;
+    -webkit-flex: 0 1 23.40426%;
+    -ms-flex: 0 23.40426%;
+    flex: 0 1 23.40426%;
+  }
+  .flexParent .col-3 .childrenPadding {
+    padding: 9.09091%;
+  }
+  .flexParent .col-2 {
+    float: left;
+    width: 14.89362%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-2 {
+    float: none;
+  }
+  .flexParent .col-2:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-2:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-2:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-2 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-2 {
+    -moz-flex: 0 1 14.89362%;
+    -webkit-flex: 0 1 14.89362%;
+    -ms-flex: 0 14.89362%;
+    flex: 0 1 14.89362%;
+  }
+  .flexParent .col-2 .childrenPadding {
+    padding: 14.28571%;
+  }
+  .flexParent .col-1 {
+    float: left;
+    width: 6.38298%;
+    margin-right: 2.12766%;
+    margin-bottom: 0;
+  }
+  .flexbox .flexParent .col-1 {
+    float: none;
+  }
+  .flexParent .col-1:nth-child(2) {
+    margin-right: 0;
+  }
+  .flexParent .col-1:nth-child(3) {
+    margin-left: 2.12766%;
+  }
+  .flexParent .col-1:last-child {
+    margin-right: 0;
+  }
+  .flexbox .flexParent .col-1 {
+    margin: 0;
+  }
+  .flexbox .flexParent .col-1 {
+    -moz-flex: 0 1 6.38298%;
+    -webkit-flex: 0 1 6.38298%;
+    -ms-flex: 0 6.38298%;
+    flex: 0 1 6.38298%;
+  }
+  .flexParent .col-1 .childrenPadding {
+    padding: 33.33333%;
+  }
+  .flexParent .col-noGap-OneHalf {
+    float: left;
+    width: 50%;
+  }
+  .flexbox .flexParent .col-noGap-OneHalf {
+    float: none;
+  }
+  .flexParent .col-noGap-OneHalf img {
+    float: left;
+  }
+  .flexbox .flexParent .col-noGap-OneHalf img {
+    float: none;
+  }
+  .flexbox .flexParent .col-noGap-OneHalf {
+    width: auto;
+    -moz-flex: 1 1 50%;
+    -webkit-flex: 1 1 50%;
+    -ms-flex: 1 1 50%;
+    flex: 1 1 50%;
+  }
+  .flexParent .col-noGap-OneHalf .childrenPadding {
+    padding: 4.16667%;
+  }
+  .flexParent .col-noGap-OneThird {
+    float: left;
+    width: 33.33333%;
+  }
+  .flexbox .flexParent .col-noGap-OneThird {
+    float: none;
+  }
+  .flexParent .col-noGap-OneThird img {
+    float: left;
+  }
+  .flexbox .flexParent .col-noGap-OneThird img {
+    float: none;
+  }
+  .flexbox .flexParent .col-noGap-OneThird {
+    width: auto;
+    -moz-flex: 1 1 33.33333%;
+    -webkit-flex: 1 1 33.33333%;
+    -ms-flex: 1 1 33.33333%;
+    flex: 1 1 33.33333%;
+  }
+  .flexParent .col-noGap-OneThird .childrenPadding {
+    padding: 6.25%;
+  }
+  .flexParent .col-noGap-OneForth {
+    float: left;
+    width: 25%;
+  }
+  .flexbox .flexParent .col-noGap-OneForth {
+    float: none;
+  }
+  .flexParent .col-noGap-OneForth img {
+    float: left;
+  }
+  .flexbox .flexParent .col-noGap-OneForth img {
+    float: none;
+  }
+  .flexbox .flexParent .col-noGap-OneForth {
+    width: auto;
+    -moz-flex: 1 1 25%;
+    -webkit-flex: 1 1 25%;
+    -ms-flex: 1 1 25%;
+    flex: 1 1 25%;
+  }
+  .flexParent .col-noGap-OneForth .childrenPadding {
+    padding: 8.33333%;
+  }
+}
+
+.flexParent.flexNav > a {
+  width: 100%;
+  display: block;
+}
+.flexbox .flexParent.flexNav {
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+@media (min-width: 700px) {
+  .flexParent.flexNav > a {
+    width: auto;
+    float: left;
+  }
+  .flexbox .flexParent.flexNav {
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    -moz-flex-direction: row;
+    -moz-flex-wrap: nowrap;
+    -webkit-flex-flow: row nowrap;
+    -moz-flex-flow: row nowrap;
+    -ms-flex-flow: row nowrap;
+    -webkit-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+  }
+  .flexbox .flexParent.flexNav > a {
+    -moz-flex: 1 1 100%;
+    -webkit-flex: 1 1 100%;
+    -ms-flex: 1 1 100%;
+    flex: 1 1 100%;
+    float: none;
+  }
+}
+
+.centerChildContent > [class*='col-'],
+.centerChildContent > [class*='col-']:last-child {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  *zoom: 1;
+}
+.centerChildContent > [class*='col-']:before, .centerChildContent > [class*='col-']:after,
+.centerChildContent > [class*='col-']:last-child:before,
+.centerChildContent > [class*='col-']:last-child:after {
+  content: " ";
+  display: table;
+}
+.centerChildContent > [class*='col-']:after,
+.centerChildContent > [class*='col-']:last-child:after {
+  clear: both;
+}
+.flexbox .centerChildContent > [class*='col-'], .flexbox
+.centerChildContent > [class*='col-']:last-child {
+  *zoom: auto;
+}
+.flexbox .centerChildContent > [class*='col-']:before, .flexbox .centerChildContent > [class*='col-']:after, .flexbox
+.centerChildContent > [class*='col-']:last-child:before, .flexbox
+.centerChildContent > [class*='col-']:last-child:after {
+  display: none;
+}
+.flexbox .centerChildContent {
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.multiRow {
+  width: 95.91837%;
+}
+.multiRow .flexRowWrap {
+  margin: 0;
+}
+.multiRow .multiCol {
+  margin-bottom: 1em;
+  margin-bottom: 2vw;
+}
+.multiRow .multiCol .childrenPadding {
+  padding: 2.12766%;
+}
+@media (min-width: 700px) {
+  .multiRow {
+    width: 97.95918%;
+  }
+  .multiRow .multiCol {
+    float: left;
+    width: 31.25%;
+    margin: 1.02041%;
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-bottom: 2vw;
+  }
+  .flexbox .multiRow .multiCol {
+    float: none;
+  }
+  .flexbox .multiRow .multiCol {
+    -moz-flex: 1 1 31.25%;
+    -webkit-flex: 1 1 31.25%;
+    -ms-flex: 1 31.25%;
+    flex: 1 1 31.25%;
+  }
+  .multiRow .multiCol .childrenPadding {
+    padding: 6.66667%;
+  }
+}
+@media (min-width: 1220px) {
+  .multiRow .flexbox .multiCol {
+    margin: 10px;
+  }
+}
+@media (min-width: 700px) {
+  .multiRow .multiCol.oneHalf {
+    width: 47.91667%;
+  }
+  .flexbox .multiRow .multiCol.oneHalf {
+    width: auto;
+    -moz-flex: 1 1 47.91667%;
+    -webkit-flex: 1 1 47.91667%;
+    -ms-flex: 1 1 47.91667%;
+    flex: 1 1 47.91667%;
+  }
+  .multiRow .multiCol.oneHalf .childrenPadding {
+    padding: 4.34783%;
+  }
+}
+@media (min-width: 700px) {
+  .multiRow .multiCol.oneThird {
+    width: 31.25%;
+  }
+  .flexbox .multiRow .multiCol.oneThird {
+    width: auto;
+    -moz-flex: 1 1 31.25%;
+    -webkit-flex: 1 1 31.25%;
+    -ms-flex: 1 1 31.25%;
+    flex: 1 1 31.25%;
+  }
+  .multiRow .multiCol.oneThird .childrenPadding {
+    padding: 6.66667%;
+  }
+}
+
+@supports not (flex-flow: row wrap) {
+  .flexbox .flexParent, .no-flexbox .flexParent {
+    *zoom: 1;
+  }
+  .flexbox .flexParent:before, .flexbox .flexParent:after, .no-flexbox .flexParent:before, .no-flexbox .flexParent:after {
+    content: " ";
+    display: table;
+  }
+  .flexbox .flexParent:after, .no-flexbox .flexParent:after {
+    clear: both;
+  }
+  .flexbox .flexParent .col-1, .no-flexbox .flexParent .col-1, .flexbox .flexParent .col-2, .no-flexbox .flexParent .col-2, .flexbox .flexParent .col-3, .no-flexbox .flexParent .col-3, .flexbox .flexParent .col-4, .no-flexbox .flexParent .col-4, .flexbox .flexParent .col-5, .no-flexbox .flexParent .col-5, .flexbox .flexParent .col-6, .no-flexbox .flexParent .col-6, .flexbox .flexParent .col-7, .no-flexbox .flexParent .col-7, .flexbox .flexParent .col-8, .no-flexbox .flexParent .col-8, .flexbox .flexParent .col-9, .no-flexbox .flexParent .col-9, .flexbox .flexParent .col-10, .no-flexbox .flexParent .col-10, .flexbox .flexParent .col-11, .no-flexbox .flexParent .col-11, .flexbox .flexParent .col-12, .no-flexbox .flexParent .col-12 {
+    float: left;
+  }
+}
+.stickyFoot-html.flexbox {
+  height: 100%;
+}
+
+.flexbox .stickyFoot-body {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.flexbox .stickyFoot-main {
+  -moz-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+html {
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+}
+html body {
+  color: #888;
+  line-height: 1.5;
+  font-size: 100%;
+  text-align: center;
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+  margin:0;
+}
+@media (min-width: 700px) {
+  html body {
+    text-align: left;
+    font-size: 2vw;
+  }
+}
+@media (min-width: 1200px) {
+  html body {
+    font-size: 1.7em;
+  }
+}
+
+[class*='col-'] {
+  background: #ccc;
+}
+
+.intro {
+  color: white;
+  color: rgba(255, 255, 255, 0.75);
+  background: #B72039;
+  font-size: 18px;
+}
+@media (min-width: 700px) {
+  .intro {
+    font-size: 2.5vw;
+  }
+}
+@media (min-width: 1200px) {
+  .intro {
+    font-size: 36px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 18px;
+}
+@media (min-width: 700px) {
+  h1 {
+    font-size: 3vw;
+  }
+}
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 36px;
+  }
+}
+
+h1, h2, h3 {
+  margin: 0 0 24px 0;
+}
+
+header, .intro, footer {
+  text-align: center;
+}
+
+footer {
+  background: #333;
+  line-height: 96px;
+  height: 96px;
+  margin-bottom: 0;
+}
+footer .flexParent {
+  margin-bottom: 0;
+}
+
+header.wrap {
+  margin: 0;
+  background: black;
+  padding: inherit .5em inherit;
+}
+header.wrap .flexParent [class*='col-'] {
+  color: white;
+  color: rgba(255, 255, 255, 0.75);
+  background: black;
+}
+
+header .fullWidth {
+padding-right: .5em;
+padding-left: .5em;}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  display: block;
+}
+
+.fullWidth .wrapInset {
+  background: #ccc;
+}
+.fullWidth .wrapInset > [class*='col-'] {
+  background: white;
+}
+
+.multiRow .multiCol {
+  background: #ccc;
+}
+
+.even .wrapInset {
+  background: #bbb;
+  margin-bottom: 1em;
+  margin-bottom: 2vw;
+}
+
+.message .col-12 {
+  background: white;
+}
+.message .col-12 .childrenPadding {
+  text-align: center;
+  font-size: 6vw;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+@media (min-width: 1200px) {
+  .message .col-12 .childrenPadding {
+    font-size: 72px;
+  }
+}
+
+header .flexParent {
+  margin-bottom: 0;
+}
+
+.flexNav {
+  height: 60px;
+  background: #A41B32;
+}
+/*
+@media (max-width: 700px) {
+  .flexNav {
+    height: auto;
+  }
+}
+.flexNav a {
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  line-height: 60px;
+  height: 60px;
+}
+.flexNav a:nth-of-type(2) {
+  background: #9A1B30;
+}
+.flexNav a:hover {
+  background: #333;
+}
+@media (max-width: 700px) {
+  .flexNav a {
+    line-height: 36px;
+    height: 36px;
+  }
+} */
+
+.nav {
+  background: #8F172B;
+}
+
+.right, .right a {
+	text-align: right;
+	display: inline;}
