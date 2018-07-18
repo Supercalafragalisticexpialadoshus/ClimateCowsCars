@@ -1,0 +1,271 @@
+/* Visit http://www.menucool.com/responsive-slider for instructions */
+/* use this for final image slider 800px-1300px */
+
+#ninja-slider {
+    width:100%;
+    background:rgba(0,0,0,0.8);
+    padding-top:30px;
+    padding-bottom:10px;
+
+    margin:0 auto;
+    overflow:hidden;
+    box-sizing:border-box;
+}
+
+#ninjua-slider div.content img {width: 30%;}
+
+#ninja-slider.fullscreen {
+    background:black;
+}
+
+#ninja-slider.fullscreen #ninja-slider-prev {
+    left: -50px; 
+}
+#ninja-slider.fullscreen #ninja-slider-next {
+    right: -50px;
+}
+
+#ninja-slider .fs-icon {
+    top:0px;
+    right:0px;
+    width:45px;
+    height:45px;
+    background: rgba(0,0,0,0.1) url(../images/fullscreen.png) no-repeat 0 0;
+    z-index:2;
+    opacity:0;
+    -webkit-transition:opacity 0.8s;
+    transition:opacity 0.8s;
+}
+
+#ninja-slider:hover .fs-icon {
+    opacity: 1;
+}
+
+#ninja-slider.fullscreen .fs-icon {
+    background-position: center -45px;
+    opacity:1;
+}
+
+#ninja-slider .slider-inner {
+    max-width:900px; /* remove this for small screen & remove top margin*/
+    margin:0 auto;/*center-aligned*/
+    font-size:0px;
+    position:relative;
+    box-sizing:border-box;
+}
+
+#ninja-slider.fullscreen .slider-inner {
+    max-width:100%;
+    max-height:80%;
+}
+
+#ninja-slider ul {
+    /*overflow:hidden;*/
+    position:relative;
+    list-style:none;
+    padding:0;
+    box-sizing:border-box;
+    touch-action:pan-y;
+}
+
+#ninja-slider li {
+    background-color:#111;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    position: absolute;
+    font-size:12px;
+    list-style:none;
+    margin:0;
+    padding:0;
+    opacity:0;
+    overflow:hidden;
+    box-sizing:border-box;
+}
+
+/* *******don't ef with this \/ ******** */
+#ninja-slider li.ns-show {
+    opacity:1;
+}
+/* *******don't ef with this /\ ******** */
+
+
+/* ---caption--- */
+#ninja-slider li.ns-show, .caption {
+	font-size: 18px;
+	color:rgba(255,255,255,0.8);
+	font-weight: bold;
+	padding: 8px 8px;
+	/*margin-left: 15px;*/
+	position:absolute;
+	text-align:left;
+	bottom: 0;
+	letter-spacing: .04em;
+	background-color: #0c0c0c;
+	}
+	
+#ninja-slider li.ns-show, .caption h5 {
+	margin: 0;
+	line-height: 1.4em;}
+
+/* animation */
+#ninja-slider li.ns-show .caption {
+	/* 5s = (delay + transitionSpeed) set in the ninja-slider.js */
+	animation-delay: .2s;
+	animation: caption 2s ease-in forwards;
+	-webkit-animation: caption 2s ease-in forwards;
+}
+
+/* https://css-tricks.com/snippets/css/keyframe-animation-syntax/ */
+@keyframes caption { 
+	0% { opacity:0; transform: rotateX(90deg); skew(0deg);}
+	80% {opacity:1; transform: rotateX(0deg);}
+	100% {opacity:1; transform: rotateX(0deg); skew(20deg);}
+}
+@webkit-keyframes caption { 
+	0% { opacity:0; -webkit-transform: rotateX(90deg); skew(0deg);}
+	80% {opacity:1; -webkit-transform: rotateX(0deg);}
+	100% {opacity:1; -webkit-transform: rotateX(0deg); skew(20deg);}
+}
+/* --------- slider image ------- */  
+#ninja-slider .ns-img {
+    background-color:rgba(0,0,0,0.3);
+    background-size:contain;/*Note: If transitionType is zoom, it will be overridden to cover.*/
+
+    border-radius:3px;
+
+    cursor:default;
+    display:block;
+    position: absolute;
+    width:100%;
+    height:100%;
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+
+/* ---------Arrow buttons ------- */   
+/* The arrow button id should be: slider id + ("-prev", "-next", and "-pause-play") */ 
+#ninja-slider-pause-play { display:none;}    
+
+#ninja-slider-prev, #ninja-slider-next
+{
+    position: absolute;
+    display:inline-block;
+    width:42px; /* dont delete this */
+    height:94px;
+    line-height:56px;
+    top: 50%;
+    margin-top:-36px;
+    background-color:rgba(0,0,0,0.4);
+    background-color:#ccc\9;/*IE8 hack*/
+    backface-visibility:hidden;
+    overflow:hidden;
+    white-space:nowrap;
+    -webkit-user-select: none;
+    user-select:none;
+    -webkit-user-select: none;
+    user-select:none;
+    z-index:10;
+    opacity:0.3; 
+    cursor:pointer;
+    -webkit-transition:all 0.7s;
+    transition:all 0.7s;
+}
+
+/* arrows */
+#ninja-slider-prev::before, #ninja-slider-next::before {
+    position: absolute;
+    top: 14.3px; 
+    display: inline-block;
+}
+
+#ninja-slider-prev {
+  background-image: url(http://cornucopia.website/photography/images/prev1.svg); left: 0;
+}
+#ninja-slider-next {
+  background-image: url(http://cornucopia.website/photography/images/next1.svg); right: 0;
+}
+ 
+#ninja-slider-prev:hover, #ninja-slider-next:hover {
+    opacity:1;
+}
+/* instructions for larger custom arrows on mobile
+@media only screen and (max-width: 533px) { 
+#ninja-slider-prev, #ninja-slider-next { width:100px; height:100px; 
+background-image: url(img/navs-for-mobile.png); } 
+#ninja-slider-prev:hover {background-position:0 -100px;} 
+#ninja-slider-next { right: 0; background-position:-100px 0; } 
+#ninja-slider-next:hover {background-position:-100px -100px;}
+ }
+
+#ninja-slider-prev {
+    left: 0; 
+}
+#ninja-slider-next {
+    right: 0;
+}
+
+/* arrows */
+#ninja-slider-prev::before, #ninja-slider-next::before {
+    position: absolute;
+    top: 17px;
+    /*content: "";*/
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-left: 2px solid white;
+    border-top: 2px solid white;
+}
+/*
+#ninja-slider-prev::before {
+    -ms-transform:rotate(-45deg);/*IE 9*
+    -webkit-transform:rotate(-45deg);
+    transform: rotate(-45deg);
+    backface-visibility:hidden;
+    right:4px;
+}
+
+#ninja-slider-next::before {
+    -ms-transform:rotate(135deg);/*IE 9*
+    -webkit-transform:rotate(135deg);
+    transform: rotate(135deg);
+    backface-visibility:hidden;
+    left:4px;
+}
+/*
+
+/*pagination num within the arrow buttons*/
+#ninja-slider-prev div, #ninja-slider-next div {display:none;}
+
+
+/*------ pager(nav bullets) ------*/      
+/* The pager id should be: slider id + "-pager" */
+#ninja-slider-pager { display:none;}
+
+
+#ninja-slider-pager, #ninja-slider-prev, #ninja-slider-next, #ninja-slider-pause-play
+{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+
+/*Responsive settings*/
+@media only screen and (max-width:900px){
+
+    #ninja-slider-prev, #ninja-slider-next {
+        display:none;
+    }
+    #ninja-slider .fs-icon {
+        display:none;
+    }
+    #ninja-slider .slider-inner {
+    max-width:100%;
+    }
+    #ninja-slider {
+    	padding: 0;
+    }
+}
+

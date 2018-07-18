@@ -1,0 +1,23 @@
+@font-face {
+    font-family: helldorado;
+    src: url(../fonts/helldorado.ttf);}
+
+@font-face {
+    font-family: cowboys;
+    src: url(../fonts/cowboys.ttf);}
+
+@font-face {
+    font-family: nashville;
+    src: url(../fonts/nashville.ttf);}
+    
+@font-face {
+    font-family: rustler;
+    src: url(../fonts/rustler.ttf);}
+    
+@font-face {
+    font-family: heffer;
+    src: url(../fonts/Heffer.ttf);}
+    
+@font-face {
+    font-family: alegreya;
+    src: url(../fonts/Alegreya-Bold.otf);}    

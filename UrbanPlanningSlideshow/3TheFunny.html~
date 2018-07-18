@@ -1,0 +1,708 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Urban Planning - The Funny</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link href="css/custom-style.css" rel="stylesheet" type="text/css">
+   <link href="css/thumbnail-slider4.css" rel="stylesheet" type="text/css" />
+   <link href="css/ninja-slider4.css" rel="stylesheet" type="text/css" />
+   <script src="js/thumbnail-slider4.js" type="text/javascript"></script>
+   <script src="js/ninja-slider4.js" type="text/javascript"></script>
+   <style>
+		body {font: normal 0.9em Arial;margin:0;}
+			a {color:#1155CC;}
+			ul li {padding: 10px 0;}
+			code {display:block; white-space:pre; background-color:#f6f6f6;padding:8px; overflow:auto;border:1px dotted #999;margin:6px 0;}
+			footer {height: 3em; background-color: black; font-size: 1.1em; color: whitesmoke; padding: 1em; line-height: 1.3em;}
+   </style>
+</head>
+<body>
+	<!--start-->
+	<header><a href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/index.html" id="home">Home</a>
+	<div class="title">Urban Planning Slideshow - The Funny</div></header>
+		<div id='ninja-slider'>
+			<div class="misc">
+				<div class="slider-inner">
+					<ul>
+               	<!-- 10 -->
+               	<li><a class="ns-img" href="http://http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/speed-past-traffic.jpg"></a>
+               	<div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/speed-past-traffic.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/1-25-05_price-driving.gif"></a>
+               	<div class="caption ns-show"><h5>&#169; Scott &#38; Borgman<br>
+               	<h5><a href="http://zitscomics.com/">website</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/drink-and-ride.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/drink-and-ride.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/drive-thru-pharmacy.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/drive-thru-pharmacy.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-blues.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-blues.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/051711-wecanbike.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Andy Singer<br>
+               	<a href="images/Funny/051711-wecanbike.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/highway2hell.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/highway2hell.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/072414-spin.gif"></a>
+               	<div class="caption ns-show"><h5>&#169; Stephan Pastis<br>
+               	<h5><a href="http://www.gocomics.com/pearlsbeforeswine/2014/07/24">website</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/minion-roadblock.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/minion-roadblock.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/copenhagen-SUV.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/copenhagen-SUV.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/human-miles-per-beer.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/human-miles-per-beer.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/horn-light.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Tony Carrillo<br>
+               	<h5><a href="http://www.gocomics.com/fminus/2014/01/30">website</a></h5></div></li><!--*-->
+                                    
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-anthropologist.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-anthropologist.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/ironic-congestion-truck.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/ironic-congestion-truck.jpg">download</a></h5></div></li><!--*-->
+                  <!--20-->
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/transport-effic-laugh.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/transport-effic-laugh.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cleared4pedestrians.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Dan Wasserman<br>
+               	<h5><a href="http://www.pedestrians.org/cartoon.htm">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/news-hits-home.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/news-hits-home.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/100914-strip_traffic-circle.png"></a>
+                  <div class="caption ns-show"><h5>&#169; Wiley Miller<br>
+               	<h5><a href="http://www.gocomics.com/nonsequitur/2014/10/09">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/blind-driving.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/blind-driving.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/093007-drive-nondrive-city.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Andy Singer<br>
+               	<a href="images/Funny/093007-drive-nondrive-city.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-rewards.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-rewards.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/driving-rhyme.jpg"></a>
+                  <div class="caption ns-show"><h5><a href="https://twitter.com/ODOT_Fakewide">@ODOT_fakewide</a><br>
+               	<a href="images/Funny/driving-rhyme.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/math-speed-limit.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/math-speed-limit.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/portable-bikelane.jpg"></a>
+                  <div class="caption ns-show">'Self-propelled cycle track'<br><h5>Source unknown<br>
+               	<a href="images/Funny/portable-bikelane.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-gap_jump-it.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/road-gap_jump-it.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/BikeMove-brad.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/BikeMove-brad.jpg">download</a></h5></div></li><!--*-->
+Fbr               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/evil-const-sign.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/evil-const-sign.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/one-deadend.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/one-deadend.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/111608-multitask.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Jim Toomey<br>
+               	<h5><a href="http://shermanslagoon.com/comics/november-16-2008/">View</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/beatles-xwalk.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/beatles-xwalk.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/dragons.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/dragons.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikerack_carrack.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Andy Singer<br>
+               	<a href="images/Funny/bikerack_carrack.gif">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/081703_celldriver-meal.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Jim Toomey<br>
+               	<h5><a href="http://shermanslagoon.com/comics/august-17-2003/">View</a></h5></div></li><!--*-->
+                  <!-- 30 -->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-vs-ryder.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-vs-ryder.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-windmills.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; John McPherson<br>
+               	<h5><a href="http://www.gocomics.com/closetohome/2005/10/06">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/the-negative-carbon-car.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/the-negative-carbon-car.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/human-traffic-cone.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/human-traffic-cone.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bicycle-repairman.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bicycle-repairman.jpg">download</a>
+               	<br><a href="https://www.youtube.com/watch?v=U01xasUtlvw">about Bicycle Repairman</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/if-roads-were-like-bike-lanes.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Steve P. Adams<br>
+               	<h5><a href="http://stevepatrickadams.com/if-roads-were-like-bike-lanes/">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/zero-emission-vehicle.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Andy Singer<br>
+               	<a href="images/Funny/zero-emission-vehicle.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-text-irony.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/car-text-irony.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/shop-cart-runover.png"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/shop-cart-runover.png">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/051111eco-hybrid.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Stephan Pastis<br>
+               	<h5><a href="http://www.gocomics.com/pearlsbeforeswine/2011/05/11">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/missed-target.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/missed-target.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/traffic-cartoon.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/traffic-cartoon.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-suicide.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/car-suicide.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/simon-cat_gas.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/simon-cat_gas.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/050690-dilbert_drive-into-tree.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Scott Adams<br>
+               	<h5><a href="http://dilbert.com/strip/1990-05-06">View</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-pun.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-pun.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/except-for-anger.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/except-for-anger.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cross-street.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Stephan Pastis<br>
+               	<h5><a href="http://www.gocomics.com/pearlsbeforeswine/2014/07/02">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/carcrash-aaa.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/carcrash-aaa.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/no-X-turn.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/no-X-turn.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/investment-advice.jpg"></a>
+                  <div class="caption ns-show"><h5><a href="https://despair.com/">Demotivator&#174;</a><br>
+               	<a href="images/Funny/investment-advice.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cellphone-driving-young.jpg"></a>
+                  <div class="caption ns-show">Cellphone Driving<br>Took Him So Young<br><h5>Source unknown<br>
+               	<a href="images/Funny/cellphone-driving-young.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-doughnuts.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-doughnuts.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-makes-fat.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/car-makes-fat.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/slow-drively.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/slow-drively.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/020816_plow-wall.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Wiley Miller<br>
+               	<h5><a href="http://www.gocomics.com/nonsequitur/2016/02/08">View</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/wrong-bikemove.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/wrong-bikemove.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/missed-turn_lost-day.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/missed-turn_lost-day.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/dress4crosswalk.jpg"></a>
+                  <div class="caption ns-show">How to Get Drivers<br>to See You<br><h5>Source unknown<br>
+               	<a href="images/Funny/dress4crosswalk.jpg">download</a></h5></div></li><!--*-->
+                  
+						<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/stop.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/stop.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/sorry-doesnt-cut-it.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/sorry-doesnt-cut-it.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-trailer-attach.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/bikemove-trailer-attach.jpg">download</a></h5></div></li><!--*-->
+               	
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/062308-hitsquirrel.gif"></a>
+                  <div class="caption ns-show"><h5>&#169; Stephan Pastis<br>
+               	<h5><a href="http://www.gocomics.com/pearlsbeforeswine/2008/06/23">View</a></h5></div></li><!--*-->
+                  <!-- 50 -->
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/half-dome_w-hwy.jpg"></a>
+                  <div class="caption ns-show">Yellowstone Dept. of Transportation<br><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/half-dome_w-hwy.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/amazing-carcrash.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/amazing-carcrash.jpg">download</a></h5></div></li><!--fitstylelife.com*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-msg-bd_climate.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/road-msg-bd_climate.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/your-sign.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/your-sign.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/driving-rat-in-cage.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/driving-rat-in-cage.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/anti-piracy.jpg"></a>
+                  <div class="caption ns-show"><h5>@Sapiospiritual<br>
+               	<a href="images/Funny/anti-piracy.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bike-lane-fail.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/bike-lane-fail.jpg">download</a></h5></div></li><!--*-->
+                  
+                  <li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/donstop-then-its-ok.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/donstop-then-its-ok.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/ironic-car-bikelane.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/ironic-car-bikelane.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/DOT-flag.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/DOT-flag.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/021012_kill-transit.png"></a>
+                  <div class="caption ns-show"><h5>&#169; Tom Toles<br>
+               	<h5><a href="http://www.gocomics.com/tomtoles/2012/02/10">View</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/Kostelec-planning_pests.png"></a>
+                  <div class="caption ns-show"><h5><a href="https://twitter.com/KostelecPlan">@KostelecPlan</a><br>
+               	<a href="images/Funny/Kostelec-planning_pests.png">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-loseum.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/car-loseum.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/fox-sake.png"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/fox-sake.png">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-eat-earth.jpg"></a>
+                  <div class="caption ns-show"><h5>&#169; Andy Singer<br>
+               	<a href="images/Funny/car-eat-earth.jpg">download</a></h5></div></li><!--*-->
+               	
+               	<li><a class="ns-img" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-on-german-rail-line.jpg"></a>
+                  <div class="caption ns-show"><h5>Source unknown<br>
+               	<a href="images/Funny/car-on-german-rail-line.jpg">download</a></h5></div></li><!--*-->
+               	
+                 </ul>
+               <div class="fs-icon" title="Expand/Close"></div>
+            </div>
+				<div id="thumbnail-slider">
+            	<div class="inner">
+               	<ul>
+                  	<li>
+                     	<a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/speed-past-traffic.jpg"></a>
+                        <span>0</span>
+                     </li>
+                     <li>
+                     	<a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/1-25-05_price-driving.gif"></a>
+                        <span>1</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/drink-and-ride.jpg"></a>
+                        <span>2</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/drive-thru-pharmacy.jpg"></a>
+                        <span>3</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-blues.jpg"></a>
+                        <span>4</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/051711-wecanbike.jpg"></a>
+                        <span>5</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/highway2hell.jpg"></a>
+                        <span>6</span>
+                     </li>
+                     <li>
+                     	<a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/072414-spin.gif"></a>
+                        <span>7</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/minion-roadblock.jpg"></a>
+                        <span>8</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/copenhagen-SUV.jpg"></a>
+                        <span>9</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/human-miles-per-beer.jpg"></a>
+                        <span>10</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/horn-light.jpg"></a>
+                        <span>11</span>
+                     </li>
+							<li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-anthropologist.jpg"></a>
+                        <span>12</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/ironic-congestion-truck.jpg"></a>
+                        <span>13</span>
+                     </li>
+                     <!-- 20s -->
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/transport-effic-laugh.jpg"></a>
+                        <span>14</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cleared4pedestrians.jpg"></a>
+                        <span>15</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/news-hits-home.jpg"></a>
+                        <span>16</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/100914-strip_traffic-circle.png"></a>
+                        <span>17</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/blind-driving.jpg"></a>
+                        <span>18</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/093007-drive-nondrive-city.jpg"></a>
+                        <span>19</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-rewards.jpg"></a>
+                        <span>20</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/driving-rhyme.jpg"></a>
+                        <span>21</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/math-speed-limit.jpg"></a>
+                        <span>22</span>
+                     </li>
+                      <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/portable-bikelane.jpg"></a>
+                        <span>23</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-gap_jump-it.jpg"></a>
+                        <span>24</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/BikeMove-brad.jpg"></a>
+                        <span>25</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/evil-const-sign.jpg"></a>
+                        <span>27</span><!-- **************************-->
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/one-deadend.jpg"></a>
+                        <span>28</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/111608-multitask.gif"></a>
+                        <span>29</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/beatles-xwalk.jpg"></a>
+                        <span>30</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/dragons.jpg"></a>
+                        <span>31</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikerack_carrack.gif"></a>
+                        <span>32</span>
+                     </li>
+                     <!-- 30s -->
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/081703_celldriver-meal.gif"></a>
+                        <span>33</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-vs-ryder.jpg"></a>
+                        <span>34</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-windmills.jpg"></a>
+                        <span>35</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/the-negative-carbon-car.jpg"></a>
+                        <span>36</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/human-traffic-cone.jpg"></a>
+                        <span>37</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bicycle-repairman.jpg"></a>
+                        <span>38</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/if-roads-were-like-bike-lanes.jpg"></a>
+                        <span>39</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/zero-emission-vehicle.jpg"></a>
+                        <span>40</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-text-irony.jpg"></a>
+                        <span>41</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/shop-cart-runover.png"></a>
+                        <span>42</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/051111eco-hybrid.gif"></a>
+                        <span>43</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/missed-target.jpg"></a>
+                        <span>44</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/traffic-cartoon.jpg"></a>
+                        <span>45</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-suicide.jpg"></a>
+                        <span>46</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/simon-cat_gas.jpg"></a>
+                        <span>47</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/050690-dilbert_drive-into-tree.jpg"></a>
+                        <span>48</span>
+                     </li>
+                     <!-- 40s -->
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-pun.jpg"></a>
+                        <span>49</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/except-for-anger.jpg"></a>
+                        <span>50</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cross-street.gif"></a>
+                        <span>51</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/carcrash-aaa.jpg"></a>
+                        <span>52</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/no-X-turn.jpg"></a>
+                        <span>53</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/investment-advice.jpg"></a>
+                        <span>54</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/cellphone-driving-young.jpg"></a>
+                        <span>55</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-doughnuts.jpg"></a>
+                        <span>56</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-makes-fat.jpg"></a>
+                        <span>57</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/slow-drively.jpg"></a>
+                        <span>58</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/020816_plow-wall.gif"></a>
+                        <span>59</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/wrong-bikemove.jpg"></a>
+                        <span>60</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/missed-turn_lost-day.jpg"></a>
+                        <span>61</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/dress4crosswalk.jpg"></a>
+                        <span>62</span>
+                     </li>
+                      <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/stop.jpg"></a>
+                        <span>63</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/sorry-doesnt-cut-it.jpg"></a>
+                        <span>64</span>
+                     </li>
+                     <!-- 50s -->
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bikemove-trailer-attach.jpg"></a>
+                        <span>65</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/062308-hitsquirrel.gif"></a>
+                        <span>66</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/half-dome_w-hwy.jpg"></a>
+                        <span>67</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/amazing-carcrash.jpg"></a>
+                        <span>68</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/road-msg-bd_climate.jpg"></a>
+                        <span>69</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/your-sign.jpg"></a>
+                        <span>70</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/driving-rat-in-cage.jpg"></a>
+                        <span>71</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/anti-piracy.jpg"></a>
+                        <span>72</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/bike-lane-fail.jpg"></a>
+                        <span>73</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/donstop-then-its-ok.jpg"></a>
+                        <span>74</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/ironic-car-bikelane.jpg"></a>
+                        <span>75</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/DOT-flag.jpg"></a>
+                        <span>76</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/021012_kill-transit.png"></a>
+                        <span>77</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/Kostelec-planning_pests.png"></a>
+                        <span>78</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-loseum.jpg"></a>
+                        <span>79</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/fox-sake.png"></a>
+                        <span>80</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-eat-earth.jpg"></a>
+                        <span>81</span>
+                     </li>
+                     <li>
+                        <a class="thumb" href="http://www.towardzeroimpact.net/UrbanPlanning-slideshow/images/Funny/car-on-german-rail-line.jpg"></a>
+                        <span>82</span>
+                     </li>
+
+						</ul>
+					</div><!-- inner -->
+				</div><!-- thumbnail slider -->
+			</div><!-- misc the zonecoder folks put this in -->
+		</div><!-- ninja slider -->
+    <!--end-->
+    <footer>Note: All images here are <a href="https://creativecommons.org/" target="_mozilla">Creative Commons</a> and freely available unless otherwise labeled.  
+    If you have work that you would like to share, or to request larger resolution images, please 
+    <a href="http://www.towardzeroimpact.net/contact" target="_mozilla">contact me.</a>
+    </footer>
+</body>
+</html>
